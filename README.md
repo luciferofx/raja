@@ -38,8 +38,9 @@ Welcome to my **developer portfolio website** – a fully responsive, animated, 
 
 ---
 
-## 🚀 How to Use
+## 🚀 To create a portfolio website like mine, use the commands below to get started with this source code:
 
 ```bash
 git clone https://github.com/luciferofx/raja.git
 cd raja
+```
